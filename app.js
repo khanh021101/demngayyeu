@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
       document.getElementsByTagName("body")[0].insertAdjacentHTML(
             "beforeend",
-           // "<div id='mask'></div>"
+            //"<div id='mask'></div>"
       );
 
 }, false);
