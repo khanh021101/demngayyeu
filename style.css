@@ -108,8 +108,12 @@ anni {
       text-align: center;
 }
 
-footer {
+.footer {
      font-family: Arturo;
+     text-align: center;
+     width: 700px;
+     height: 200px;
+     margin-left: 100px;
 }
 
 #music {
