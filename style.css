@@ -18,8 +18,12 @@ body {
 
 
 }
+p{
+      font-family: arturo;
+}
 
 h1 {
+      font-family: arturo;
       font-weight: lighter;
       grid-column: span 3;
       text-align: center;
@@ -57,6 +61,7 @@ date, time {
 }
 
 date {
+      font-family: arturo;
       font-size: 40px;
 }
 
@@ -104,7 +109,7 @@ anni {
 }
 
 footer {
-     
+     font-family: Arturo;
 }
 
 #music {
